@@ -7,8 +7,8 @@ Repository of Jupyter Notebook for prediction and forcasting of solar radiation 
  - Modelling Extraterrestial Data (EDP000)
 
 # Variables
-| #  |Independent Variables|
-|----|-------------------|
+| #  |Independent Variables|Dependent Variables|
+|----|-------------------|--------------------|
 | 1  | Day Number        |
 | 2  | Date              |
 | 3  | Month             |
