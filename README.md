@@ -29,8 +29,8 @@ Repository of Jupyter Notebook for prediction and forcasting of solar radiation 
  - CATBOOST
 
 ## Projects
- - Modelling Extraterrestial Data (EDP000)
- - Modelling Very simple modles for Irradiance on Clear Sky (VSMP000)
+ - Extraterrestial Solar Irradiance modelling (EDP000)
+ - Very Simple models for Irradiance on Clear Sky (VSMP000)
  - Modelling Simple modles for Irradiance on Clear Sky (SMP000)
 ## License
 
