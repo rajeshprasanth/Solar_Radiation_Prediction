@@ -6,6 +6,22 @@ Repository of Jupyter Notebook for prediction and forcasting of solar radiation 
 # Project
  - Modelling Extraterrestial Data (EDP000)
 
+# Variables
+| #  |Independent Variables|
+|----|-------------------|
+| 1  | Day Number        |
+| 2  | Date              |
+| 3  | Month             |
+| 4  | Year              |
+| 5  | Hours             |
+| 6  | Minutes           |
+| 7  | Seconds           |
+| 8  | Latitude          |
+| 9  | Longitude         |
+| 10 | Solar Zenith      |
+| 11 | Solar Azimuthal   |
+| 12 | Declination Angle |
+
 ## Machine Learning Models
  - Linear Regression
  - Logistic Regression
