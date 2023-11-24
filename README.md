@@ -48,8 +48,12 @@ Repository of Jupyter Notebook for prediction and forcasting of solar radiation 
 | GWN   |  Goodwin Creek, Mississippi                    | 34.2547° N   |  89.8729° W  |   98 m    | 6 hours from UTC   |  December 1994 | 
 | PSU   |  Penn. State Univ., Pennsylvania               | 40.72012° N   |  77.93085° W  |   376 m  |   5 hours from UTC |    June 1998 |  
 | SXF   |  Sioux Falls, South Dakota                     | 43.73403° N    | 96.62328° W  |   473 m  |   6 hours from UTC  |   June 2003 | 
-| SGP   |  ARM Southern Great Plains Facility, Oklahoma  |   36.60406° N   |  97.48525° W   |  314 m   |  6 hours from UTC                   |      
-|
+| SGP   |  ARM Southern Great Plains Facility, Oklahoma  |   36.60406° N   |  97.48525° W   |  314 m   |  6 hours from UTC                   |     
+
+### Data Period
+- 01/01/2018 to 10/31/2023
+- 1 minute data
+  
 ## License
 
 [GNU General Public License V3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
